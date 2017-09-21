@@ -1,7 +1,7 @@
 # ciphers
 
-range of programmed cipher and decipher codes:
+range of programmed cipher-decipher codes:
 
-monoalphabetic cipher, general caesar cipher, playfair cipher, vigenere cipher
+monoalphabetic, general caesar, playfair, vigenere, row transposition
 
 implemented in python using visual studio
